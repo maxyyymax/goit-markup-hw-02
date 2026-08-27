@@ -5,3 +5,14 @@
   color: #fff;
   background: #4d5ae5;
 }
+.hero-button:hover,
+.hero-button:focus {
+  background: #404bbf;
+}
+.nav-link {
+  color: #2e2f42;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
