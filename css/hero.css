@@ -16,3 +16,36 @@
 .nav-link:focus {
   color: #404bbf;
 }
+.hero-title {
+  color: #fff;
+  background-color: #2e2f42;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list {
+  display: flex;
+  gap: 40px;
+  list-style: none;
+}
+
+.nav-link {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+.hero-title {
+  text-align: center;
+}
+.nav-list {
+  display: flex;
+  gap: 40px;
+  list-style: none;
+}
