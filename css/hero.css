@@ -45,7 +45,21 @@
   text-align: center;
 }
 .nav-list {
-  display: flex;
-  gap: 40px;
-  list-style: none;
+  width: 115px;
+  height: 24px;
+}
+
+#hero {
+  background-color: #2e2f42;
+  padding: 188px 0;
+  text-align: center;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  max-width: 496px;
+  margin: 0 auto 48px auto;
 }
