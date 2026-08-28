@@ -9,57 +9,24 @@
 .hero-button:focus {
   background: #404bbf;
 }
-.nav-link {
-  color: #2e2f42;
-}
-.nav-link:hover,
-.nav-link:focus {
-  color: #404bbf;
-}
+
 .hero-title {
-  color: #fff;
-  background-color: #2e2f42;
-}
-.header-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav-list {
-  display: flex;
-  gap: 40px;
-  list-style: none;
-}
-
-.nav-link {
-  color: #2e2f42;
-  text-decoration: none;
-}
-
-.nav-link:hover,
-.nav-link:focus {
-  color: #404bbf;
-}
-.hero-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
   text-align: center;
+  color: #fff;
 }
+
 .nav-list {
   width: 115px;
   height: 24px;
 }
 
-#hero {
+.hero {
   background-color: #2e2f42;
   padding: 188px 0;
   text-align: center;
-}
-
-.hero-title {
-  color: #ffffff;
-  font-size: 56px;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  max-width: 496px;
-  margin: 0 auto 48px auto;
 }
